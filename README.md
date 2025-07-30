@@ -1,10 +1,10 @@
 # 💹 Sentiment Analysis of the Bitcoin Market: A Look at Trader Behavior
 
-## Goal  
+## 🧠 Objective  
 This project examines the connection between **trader performance** and **Bitcoin market sentiment**.  
 Finding patterns in behavior that can guide **smarter crypto trading strategies** is the aim.
 
-## Utilized Datasets
+##📁 Utilized Datasets
 
 **Historical Trader Data** 
 1.📎 [Link for download](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
